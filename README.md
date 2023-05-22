@@ -1,4 +1,4 @@
-# MACHINE-LEARNING-Basic-Problems
+# Machine-Learning-Basic-Problems
 1. Take values of the length & breadth of a rectangle from user input and check if it is square or not.
 2. Take three integer values from the user and print the greatest among them.
 3. A student will not be allowed to sit in an exam if his/her attendance is less than 75%.
